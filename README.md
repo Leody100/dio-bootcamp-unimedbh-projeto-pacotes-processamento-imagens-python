@@ -20,7 +20,7 @@ The package image_processing is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install package_skimage
+pip install package-skimage==0.0.1
 ```
 
 ## Author
