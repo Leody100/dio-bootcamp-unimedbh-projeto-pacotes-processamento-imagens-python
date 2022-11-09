@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="package_skimage",
-    version="0.0.1",
+    version="0.0.2",
     author="leody",
     author_email="leody@outlook.com.br",
     description="Image Processing Package using Skimage Dio_me",
